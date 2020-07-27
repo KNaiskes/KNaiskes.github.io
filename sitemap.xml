@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://knaiskes.github.io/categories/</loc>
+    <loc>https://knaiskes.github.io/posts/hello-world/</loc>
+    <lastmod>2020-07-27T12:01:50+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://knaiskes.github.io/</loc>
+    <lastmod>2020-07-27T12:01:50+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://knaiskes.github.io/posts/</loc>
+    <lastmod>2020-07-27T12:01:50+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://knaiskes.github.io/categories/</loc>
   </url>
   
   <url>
