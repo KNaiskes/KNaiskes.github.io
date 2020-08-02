@@ -615,3 +615,7 @@ article { margin-top: 15px; margin-bottom:50px; }
 }
 
 #summary p { font-size: 22px;}
+
+#icons-footer {
+    float: right;
+}
