@@ -6,7 +6,17 @@
     <description>Recent content on Kiriakos Naiskes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Dec 2020 18:05:59 +0200</lastBuildDate><atom:link href="https://knaiskes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Feb 2021 18:18:07 +0200</lastBuildDate><atom:link href="https://knaiskes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sort Words in Alphabetical Order With Emacs</title>
+      <link>https://knaiskes.github.io/posts/sort-words-in-alphabetical-order-with-emacs/</link>
+      <pubDate>Tue, 23 Feb 2021 18:18:07 +0200</pubDate>
+      
+      <guid>https://knaiskes.github.io/posts/sort-words-in-alphabetical-order-with-emacs/</guid>
+      <description>A couple of days ago, I had a project with a list of hundreds of books titles and decided, instead of sorting them during the runtime, it would be better to be sorted inside the source code.
+My very first thought was to use Python or Bash as I have used both of these scripting languages in the past for such tasks and while I was waiting for Emacs to load (just a couple of seconds) and was thinking of how I should implement this simple script.</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://knaiskes.github.io/posts/hello-world/</link>
